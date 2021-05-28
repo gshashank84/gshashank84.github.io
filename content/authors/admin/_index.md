@@ -15,7 +15,7 @@ role: Machine Learning Engineer
 #  url: https://www.kiet.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Scientist @ X
+bio: MLE @ X
 
 # Interests to show in About widget
 interests:
