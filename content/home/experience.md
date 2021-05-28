@@ -41,7 +41,7 @@ experience:
     company_logo: org-x
     location: ''
     date_start: '2019-04-01'
-    date_end: '2019-11-31'
+    date_end: '2019-11-10'
     description: |2-
     
         - Reviewed 100+ student projects of Machine Learning Nanodegree.
