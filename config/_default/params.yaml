@@ -30,10 +30,6 @@ contact_links:
     icon_pack: fab
     name: LinkedIn
     link: 'https://www.linkedin.com/in/gshashank84'
-  - icon: envelope
-    icon_pack: fab
-    name: Email
-    link: 'mailto:gshashank84@gmail.com'
     
 
 # Site header
