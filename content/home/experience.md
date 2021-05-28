@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Machine Learning Intern
+    company: Signy Advanced Technologies
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: ''
+    date_start: '2019-12-01'
+    date_end: '2020-05-23'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
+    
+        - Responsible for designing and maintaining Custom Object Detection models.
+        - Implemented Face ID Tracking model for the use of applying filters.
+        - Revamped various state of the art Computer Vision models.
+    
+  - title: Independent Consulting
     company: University X
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: ''
+    date_start: '2019-04-01'
+    date_end: '2019-11-31'
+    description: |2-
+    
+        - Reviewed 100+ student projects of Machine Learning Nanodegree.
+        - Provided direct support service to 50+ students.
+        - Lead the effort to remove bottlenecks between Students and Mentors.
 
 design:
   columns: '2'
