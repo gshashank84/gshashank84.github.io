@@ -25,7 +25,7 @@ experience:
   - title: Machine Learning Intern
     company: Signy Advanced Technologies
     company_url: ''
-    company_logo: org-gc
+    company_logo: ''
     location: ''
     date_start: '2019-12-01'
     date_end: '2020-05-23'
@@ -36,9 +36,9 @@ experience:
         - Revamped various state of the art Computer Vision models.
     
   - title: Independent Consulting
-    company: University X
+    company: Udacity
     company_url: ''
-    company_logo: org-x
+    company_logo: ''
     location: ''
     date_start: '2019-04-01'
     date_end: '2019-11-10'
