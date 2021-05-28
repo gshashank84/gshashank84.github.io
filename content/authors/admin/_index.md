@@ -70,4 +70,3 @@ highlight_name: false
 
 My Bio.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
