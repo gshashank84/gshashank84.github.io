@@ -30,12 +30,12 @@ item:
   organization: Univ.ai
   organization_url: https://www.univ.ai
   title: Credit Risk Prediction
-  url: ""
+  url: https://hack.univ.ai
 - certificate_url: https://www.kaggle.com/gshashank84
   date_end: "2019-04-10"
   date_start: "2018-12-28"
   description: Top 12% Score
-  organization: edX
+  organization: Kaggle
   organization_url: https://www.kaggle.com
   title: PetFinder.my Adoption Prediction
   url: https://www.kaggle.com/c/petfinder-adoption-prediction
