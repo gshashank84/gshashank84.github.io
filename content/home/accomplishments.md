@@ -23,30 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: https://certificate.univ.ai/c/12923u23c
+  date_end: "2021-04-20"
+  date_start: "2021-03-27"
+  description: Top 10% score
+  organization: Univ.ai
+  organization_url: https://www.univ.ai
+  title: Credit Risk Prediction
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+- certificate_url: https://www.kaggle.com/gshashank84
+  date_end: "2019-04-10"
+  date_start: "2018-12-28"
+  description: Top 12% Score
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization_url: https://www.kaggle.com
+  title: PetFinder.my Adoption Prediction
+  url: https://www.kaggle.com/c/petfinder-adoption-prediction
 
 design:
   columns: '2' 
